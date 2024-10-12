@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import Logo from "./Logo";
+import Doctor from "../icons/Doctor";
 
 function Footer() {
   return (
@@ -50,7 +51,7 @@ function Footer() {
           </ul>
         </div>
       </div>
-      <hr className="my-5"/>
+      <hr className="my-5" />
       <p className="text-center mt-4 tracking-wide">
         Copyright 2024 &copy; Shifaa Foundation - All Right Reserved.
       </p>

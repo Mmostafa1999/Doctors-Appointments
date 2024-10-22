@@ -1,6 +1,6 @@
-# Shifaa - Telemedicine Application
+# Shifaa - Doctor Appointment Application
 
-![Shifaa Logo](https://shifaa.vercel.app/logo.png) <!-- Replace with your logo if available -->
+![Shifaa Logo](https://shifaa.vercel.app/logo.png) 
 
 ## Overview
 

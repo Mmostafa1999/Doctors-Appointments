@@ -8,8 +8,10 @@ Shifaa is a web-based system that deals with the issue of managing and booking a
 
 ## Features
 
-- **User Authentication**: Secure sign-in and sign-up for patients and doctors.
-- **Appointment Booking**: Easy scheduling of appointments with available healthcare providers.
+- **User Account Creation & Authentication**: Users can create accounts, log in, and manage their profiles.
+- **Doctor Listings by Specialty**:Doctors are organized under various specialties (General Physician, Gynecologist, 
+Neurologist, etc.).
+A search function allows users to find doctors by specialty.
 - **Video Consultations**: Real-time video chat functionality for consultations.
 - **Medical Records**: Patients can view and manage their medical history and prescriptions.
 - **Responsive Design**: Mobile-friendly layout for ease of use on any device.

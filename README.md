@@ -43,9 +43,21 @@ Users can view available slots and book appointments with doctors.
 
 ## Installation
 
-To run this project locally, follow these steps:
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shifaa.git
-   cd shifaa
+   git clone https://github.com/Mmostafa1999/Doctors-Appointments.git
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run the development server:
+   ```bash
+   npm run dev
+
+Feel free to contribute or report issues!
+   
+## Contact
+- [Author](https://github.com/Mmostafa1999)
+- [Email](mahmoud.mostafa4467@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mahmoud-mustafa-642434188/)

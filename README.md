@@ -14,9 +14,9 @@ Neurologist, etc.). <br />
 A search function allows users to find doctors by specialty.
 - **Doctor Profiles**: Each doctor’s profile includes: Name, About section (bio and qualifications), Consultation fee and Available booking slots
 - **Appointment Booking**:
-o Mobile-friendly layout for ease of use on any device.
+- Mobile-friendly layout for ease of use on any device.
 Users can view available slots and book appointments with doctors. <br />
-o Real-time updates ensure accurate availability.
+Real-time updates ensure accurate availability.
 ## Tech Stack
 
 - **Frontend**: React, Tailwind CSS

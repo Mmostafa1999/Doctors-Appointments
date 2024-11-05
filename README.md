@@ -6,7 +6,7 @@
 
 Shifaa is a web-based system that deals with the issue of managing and booking appointments according to user’s choice/necessity. Patients can select doctors based on their medical needs and they can look at their details and reviews to learn more. Hence this project offers an effective solution where users can view various booking slots available and select the preferred date and time. This reduces            physical waiting time and not only saves time for the users but also makes the appointment process more efficient.
 
-## 🌟 [Live Website](https://todo-list-jet-five-39.vercel.app/) 🌟
+## 🌟 [Live Website](https://shifaa.vercel.app/) 🌟
 
 ## Features
 
